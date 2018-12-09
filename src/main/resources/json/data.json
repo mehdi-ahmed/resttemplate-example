@@ -1,0 +1,302 @@
+{
+  "data": {
+          "league": {
+            "id": "379ec58c-6bbd-4e80-9d9d-5feb8be2823f",
+            "name": "Enonic Foos",
+            "leaguePlayers": [
+              {
+                "id": "ab1651df-b835-4958-a2a5-2e6d42f7a41e",
+                "rating": 1817,
+                "ranking": 1,
+                "player": {
+                  "id": "67a59838-0fda-43a6-9e2b-51a7d399b6a1",
+                  "name": "GRI",
+                  "nationality": "fr",
+                  "stats": {
+                    "gameCount": 1681,
+                    "winningGameCount": 1012,
+                    "goalCount": 9098
+                  }
+                }
+              },
+              {
+                "id": "24485c65-98f0-4165-b16d-1c9c17bdd06d",
+                "rating": 1807,
+                "ranking": 2,
+                "player": {
+                  "id": "2b1d0eda-ab0c-4340-be3f-6ba3bebf1f81",
+                  "name": "RMY",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 1182,
+                    "winningGameCount": 798,
+                    "goalCount": 7113
+                  }
+                }
+              },
+              {
+                "id": "24cfb218-3e85-4568-b647-4be26c0baa94",
+                "rating": 1774,
+                "ranking": 3,
+                "player": {
+                  "id": "65ab0c44-51c3-4663-911b-59f17eaefd2b",
+                  "name": "ARO",
+                  "nationality": "cat",
+                  "stats": {
+                    "gameCount": 1431,
+                    "winningGameCount": 753,
+                    "goalCount": 6756
+                  }
+                }
+              },
+              {
+                "id": "be4f1217-73d7-4fa7-bc4f-9ba0b7e9cc58",
+                "rating": 1757,
+                "ranking": 4,
+                "player": {
+                  "id": "fae240ad-9a26-48e2-bc4c-f59097565cc9",
+                  "name": "BWE",
+                  "nationality": "se",
+                  "stats": {
+                    "gameCount": 606,
+                    "winningGameCount": 312,
+                    "goalCount": 2527
+                  }
+                }
+              },
+              {
+                "id": "046fba3e-f0cf-4431-8cd8-1ad0c0d20bf6",
+                "rating": 1735,
+                "ranking": 5,
+                "player": {
+                  "id": "7bf6a05c-d6a3-4d3a-a15b-525be815c2c1",
+                  "name": "BHJ",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 313,
+                    "winningGameCount": 182,
+                    "goalCount": 1573
+                  }
+                }
+              },
+              {
+                "id": "3e6a7e86-e331-481d-92ad-976825c7771b",
+                "rating": 1710,
+                "ranking": 6,
+                "player": {
+                  "id": "2369d1ee-fe1a-478f-8f1d-a94037dc4c0f",
+                  "name": "DAP",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 1089,
+                    "winningGameCount": 477,
+                    "goalCount": 3958
+                  }
+                }
+              },
+              {
+                "id": "e9c54e72-5fa0-40b1-b9d1-13d895687b8a",
+                "rating": 1604,
+                "ranking": 7,
+                "player": {
+                  "id": "4082b5a3-9eb1-4023-82a3-cf296f227d03",
+                  "name": "PMI",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 60,
+                    "winningGameCount": 32,
+                    "goalCount": 260
+                  }
+                }
+              },
+              {
+                "id": "b5602214-3992-4191-8fff-fb67b2407ce7",
+                "rating": 1547,
+                "ranking": 8,
+                "player": {
+                  "id": "c32c5b82-f8d9-4585-a93a-42c4dc87627f",
+                  "name": "ASL",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 26,
+                    "winningGameCount": 13,
+                    "goalCount": 95
+                  }
+                }
+              },
+              {
+                "id": "284ba324-3bae-468a-8690-71c8b8a34380",
+                "rating": 1509,
+                "ranking": 9,
+                "player": {
+                  "id": "eef59021-ea94-4621-aaa2-f4dfdf0d5927",
+                  "name": "JSI",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 784,
+                    "winningGameCount": 266,
+                    "goalCount": 2321
+                  }
+                }
+              },
+              {
+                "id": "5d505786-7997-4fed-bb0b-aa6ebedda5bb",
+                "rating": 1503,
+                "ranking": 10,
+                "player": {
+                  "id": "341c1662-0390-4ab9-9294-7a3395fbccfa",
+                  "name": "VBR",
+                  "nationality": "no",
+                  "stats": {
+                    "gameCount": 36,
+                    "winningGameCount": 13,
+                    "goalCount": 146
+                  }
+                }
+              }
+            ],
+            "leagueTeams": [
+              {
+                "id": "c62a7617-7bc6-4180-acaf-ee560e57fceb",
+                "rating": 1722,
+                "ranking": 1,
+                "team": {
+                  "id": "042b1c5f-cc2f-4228-8da5-4ec880b1ad23",
+                  "name": "The elastic backend",
+                  "stats": {
+                    "gameCount": 226,
+                    "winningGameCount": 197,
+                    "goalCount": 2203
+                  }
+                }
+              },
+              {
+                "id": "1d232ed4-93ab-4b28-973a-563b23361c1b",
+                "rating": 1702,
+                "ranking": 2,
+                "team": {
+                  "id": "3e41dbfc-f0b5-451d-8705-4fb9fa426482",
+                  "name": "Dark and Light collides",
+                  "stats": {
+                    "gameCount": 74,
+                    "winningGameCount": 53,
+                    "goalCount": 688
+                  }
+          }
+        },
+        {
+          "id": "0d05fc46-b7da-4438-96dd-348eaea76f78",
+          "rating": 1699,
+          "ranking": 3,
+          "team": {
+            "id": "c9158fe0-eefb-4851-8e3e-9e3f2e8723b9",
+            "name": "David and Goliath",
+            "stats": {
+              "gameCount": 161,
+              "winningGameCount": 92,
+              "goalCount": 1391
+            }
+          }
+        },
+        {
+          "id": "4ea2c2ea-e99f-4555-bf81-7610220805ed",
+          "rating": 1694,
+          "ranking": 4,
+          "team": {
+            "id": "2d14a993-fad1-418a-a524-a49b68bfe3bf",
+            "name": "Valiant knights of proper play",
+            "stats": {
+              "gameCount": 215,
+              "winningGameCount": 163,
+              "goalCount": 1979
+            }
+          }
+        },
+        {
+          "id": "01b5f791-3306-4d26-a3c7-15a881f829d9",
+          "rating": 1690,
+          "ranking": 5,
+          "team": {
+            "id": "9f02f865-550b-42fd-b7d0-27c7246d622d",
+            "name": "El duo de dist├áncia llarga",
+            "stats": {
+              "gameCount": 43,
+              "winningGameCount": 35,
+              "goalCount": 416
+            }
+          }
+        },
+        {
+          "id": "43405e38-3e1c-48df-8889-a2bbc83c2e33",
+          "rating": 1688,
+          "ranking": 6,
+          "team": {
+            "id": "a16b1fcb-c643-4466-a325-7a538535f8db",
+            "name": "Paradox Brothers",
+            "stats": {
+              "gameCount": 236,
+              "winningGameCount": 117,
+              "goalCount": 1926
+            }
+          }
+        },
+        {
+          "id": "e5b5e6e2-8286-48cd-b2a8-25464ca55bec",
+          "rating": 1686,
+          "ranking": 7,
+          "team": {
+            "id": "5cf3442a-e45b-4044-b84d-da42aa014f5b",
+            "name": "The Bards",
+            "stats": {
+              "gameCount": 39,
+              "winningGameCount": 28,
+              "goalCount": 351
+            }
+          }
+        },
+        {
+          "id": "fd0beff2-cb71-4e8f-9d80-9ac38a328c4d",
+          "rating": 1678,
+          "ranking": 8,
+          "team": {
+            "id": "0f79a4c9-498c-40dd-b704-2ff1ebf5d91e",
+            "name": "Square Enonix",
+            "stats": {
+              "gameCount": 126,
+              "winningGameCount": 91,
+              "goalCount": 1157
+            }
+          }
+        },
+        {
+          "id": "169bad18-f7b4-4ae0-ac5f-9f9b416a9859",
+          "rating": 1671,
+          "ranking": 9,
+          "team": {
+            "id": "57a7ff0a-41f8-4648-ae4d-0af7a1c5d51b",
+            "name": "Ad victoriam",
+            "stats": {
+              "gameCount": 325,
+              "winningGameCount": 229,
+              "goalCount": 3000
+            }
+          }
+        },
+        {
+          "id": "f1130ddd-cdb8-45a1-a675-1d5c087a6f62",
+          "rating": 1648,
+          "ranking": 10,
+          "team": {
+            "id": "72d92f60-4222-49cc-85e1-9a22f1d351a0",
+            "name": "Les carottes sont cuites",
+            "stats": {
+              "gameCount": 41,
+              "winningGameCount": 29,
+              "goalCount": 372
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "query": "{league(name:\"Enonic Foos\") {id name leaguePlayers { id rating ranking player { id name nationality stats { gameCount winningGameCount goalCount } } } leagueTeams { id rating ranking team { id name stats { gameCount winningGameCount goalCount } } } } }"
+}
